@@ -1,2 +1,9 @@
 *.css linguist-detectable=false
-*.js linguist-detectable=true
+*.js linguist-detectable=false
+*.ok linguist-detectable=false
+*.html linguist-detectable=false
+*.png linguist-detectable=false
+*.gif linguist-detectable=false
+*.ico linguist-detectable=false
+*.json linguist-detectable=false
+*.txt linguist-detectable=false
